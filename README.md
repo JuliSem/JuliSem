@@ -9,7 +9,7 @@
 
 - Python-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 - :mailbox: Мой email: julia.sem295@yandex.ru telegram: @Julia_Semv
-- [@Julia_Semv](http://t-me.com/Julia_Semv "Telegram channel")
+- [@Julia_Semv](http://t-do.ru/Julia_Semv "Telegram channel")
 
 ### :hammer_and_wrench: Навыки :
 
