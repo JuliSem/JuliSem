@@ -32,5 +32,6 @@
 	<code><img width="60" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
 </div>
 
+---
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=julisem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
