@@ -11,6 +11,7 @@
   * 🐱 🐾 [Социальная сеть для обмена фотографиями своих питомцев](https://github.com/JuliSem/kittygram_final)
   * 🎥📖🎵 [API для сайта с отзывами на различные произведения](https://github.com/JuliSem/api_yamdb)
   * 🖥️ [Социальная сеть для публикации постов на различные темы](https://github.com/JuliSem/yatube_project_final)
+  * 💣 [Проект игры Minesweeper](https://github.com/JuliSem/game_minesweeper/tree/master)
   * 🏃‍♀️🏊⌚ [Модуль фитнес-трекера](https://github.com/JuliSem/fitness_tracker)
 - 📬: julia.sem295@yandex.ru
 - 📧: telegram: @Julia_Semv
