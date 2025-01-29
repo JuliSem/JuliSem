@@ -15,7 +15,6 @@
   * 💣 [Проект игры Minesweeper](https://github.com/JuliSem/game_minesweeper/tree/master)
   * 🏃‍♀️🏊⌚ [Модуль фитнес-трекера](https://github.com/JuliSem/fitness_tracker)
 - 📬: julia.sem295@yandex.ru
-- 📧: telegram: @Julia_Semv
 
 ### Навыки :
 
