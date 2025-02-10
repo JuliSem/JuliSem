@@ -1,22 +1,20 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
-</div>
+## Hi there👋, I'm Julia Semenova
 
-### Обо мне :
+<a href="https://github.com/JuliSem" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
-- 🙋‍♀️: Вcем привет! Меня зовут Юлия Семёнова и я Python-разработчик из Санкт-Петербурга <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-- 👩‍💻: Вы можете ознакомиться с моими проектами:
-  * 📋 [Микросервис билдера заявки по поиску рекрутера](https://github.com/HRSpaceX/backend)
-  * 🛋️ [Проект интернет магазина мебели "Home"](https://github.com/JuliSem/app_store)
-  * 🍝 [Проект сайта с рецептами](https://github.com/JuliSem/foodgram-project-react)
-  * 🐱 🐾 [Социальная сеть для обмена фотографиями своих питомцев](https://github.com/JuliSem/kittygram_final)
-  * 🎥📖🎵 [API для сайта с отзывами на различные произведения](https://github.com/JuliSem/api_yamdb)
-  * 🖥️ [Социальная сеть для публикации постов на различные темы](https://github.com/JuliSem/yatube_project_final)
-  * 💣 [Проект игры Minesweeper](https://github.com/JuliSem/game_minesweeper/tree/master)
-  * 🏃‍♀️🏊⌚ [Модуль фитнес-трекера](https://github.com/JuliSem/fitness_tracker)
-- 📬: julia.sem295@yandex.ru
+<a href="https://t.me/Julia_Semv" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white />
+</a>
 
-### Навыки :
+- 👩‍💻 Backend developer
+- 🐛🔍🔧 QA Engineer
+- 🐊 Python programming language
+- 🎓 Learning and developing 
+- 🤝 Always open to new collaborations
+***
+### Languages and tools:
 
 <div align="center">
 	<code><img width="60" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -35,5 +33,31 @@
 </div>
 
 ---
+
+### My projects:
+
+### [Project "Grocery assistant"](https://github.com/JuliSem/Grocery_assistant)
+
+![](https://img.shields.io/badge/Django-3.2.3-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.12.4-6495ED) ![Djoser](https://img.shields.io/badge/djoser-2.2.0-6495ED) ![](https://img.shields.io/badge/djangorestframework_simplejwt-5.3.0-6495ED) [![Nginx](https://img.shields.io/badge/Nginx-1.19.3-green)](https://nginx.org/ru/) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue) [![Docker](https://img.shields.io/badge/Docker-%2024.0.5-blue?style=flat-square&logo=docker)](https://www.docker.com/) [![DockerCompose](https://img.shields.io/badge/Docker_Compose-%202.21.0-blue?style=flat-square&logo=docsdotrs)](https://docs.docker.com/compose/) [![Swagger](https://img.shields.io/badge/Swagger-%201.21.7-blue?style=flat-square&logo=swagger)](https://swagger.io/)\
+Сайт, на котором пользователи могут публиковать свои рецепты, а так же подписываться на других авторов и добавлять понравившиеся рецепты в избранное и список покупок. \
+Ознакомиться можно здесь ➡️ [Ссылка на проект](https://github.com/JuliSem/Grocery_assistant)
+
+### [Project "Yamdb"](https://github.com/JuliSem/api_yamdb)
+
+![](https://img.shields.io/badge/Django-3.2-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.12.4-6495ED) ![](https://img.shields.io/badge/djangorestframework_simplejwt-5.2.2-6495ED) ![](https://img.shields.io/badge/pytest-6.2.4-6495ED) \
+API для сайта, который собирает отзывы пользователей на различные произведения, фильмы, музыку. \
+Ознакомиться можно здесь ➡️ [Ссылка на проект](https://github.com/JuliSem/api_yamdb)
+
+### [Project "Horoscope bot"](https://github.com/JuliSem/horoscope_bot)
+
+![](https://img.shields.io/badge/aiogram-3.13.1-6495ED) ![](https://img.shields.io/badge/apscheduler-3.10.4-6495ED) \
+Телеграм бот для получения ежедневного гороскопа. \
+Ознакомиться можно здесь ➡️ [Ссылка на проект](https://github.com/JuliSem/horoscope_bot)
+
+### [Project "HRSpace"](https://github.com/HRSpaceX/backend)
+
+![](https://img.shields.io/badge/Django-4.2-6495ED) ![](https://img.shields.io/badge/djangorestframework-3.14.0-6495ED) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13.10-blue) [![Docker](https://img.shields.io/badge/Docker-%2024.0.5-blue?style=flat-square&logo=docker)](https://www.docker.com/) [![DockerCompose](https://img.shields.io/badge/Docker_Compose-%202.21.0-blue?style=flat-square&logo=docsdotrs)](https://docs.docker.com/compose/) ![Nginx](https://img.shields.io/badge/Nginx-1.19.3-green) [![Swagger](https://img.shields.io/badge/Swagger-%201.21.7-blue?style=flat-square&logo=swagger)](https://swagger.io/) \
+Разработкой нового микросервиса билдера заявки по поиску рекрутера. Проект в рамках хакатона от Яндекс для HRSpace. \
+Ознакомиться можно здесь ➡️ [Ссылка на проект](https://github.com/HRSpaceX/backend)
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=julisem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
